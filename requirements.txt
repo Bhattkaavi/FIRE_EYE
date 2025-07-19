@@ -1,11 +1,6 @@
 
----
-
-### ✅ `requirements.txt`
-
-```txt
-streamlit==1.46.1
-ultralytics==8.3.166
-pyttsx3==2.90
-Pillow==10.3.0
-streamlit-lottie==0.0.5
+streamlit
+ultralytics
+pyttsx3
+Pillow
+streamlit-lottie
