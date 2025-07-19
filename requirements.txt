@@ -1,6 +1,6 @@
-
 streamlit
-ultralytics
+ultralytics==8.1.22
+opencv-python-headless==4.8.0.76
 pyttsx3
 Pillow
 streamlit-lottie
